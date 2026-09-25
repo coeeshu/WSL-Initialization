@@ -32,17 +32,19 @@ Claude Code · Codex · CC Switch · 一键更新 · Docker Desktop 集成检查
 
 在 WSL 或 Linux 终端里执行其中一条命令即可。
 
-**国内推荐（Gitee）**
-
-```bash
-curl -fsSL https://gitee.com/your-name/wsl-setup/raw/main/wsl-setup.sh | bash
-```
-
 **GitHub**
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/coeeshu/WSL-Initialization/main/wsl-setup.sh | bash
 ```
+
+**国内备用（jsDelivr CDN，GitHub 访问不了时使用）**
+
+```bash
+curl -fsSL https://cdn.jsdelivr.net/gh/coeeshu/WSL-Initialization@main/wsl-setup.sh | bash
+```
+
+> jsDelivr 有缓存，仓库更新后可能要过几个小时才会拿到新版本。
 
 <details>
 <summary>更稳妥的方式：先下载，看过内容再运行</summary>
