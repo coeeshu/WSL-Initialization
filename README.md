@@ -263,12 +263,16 @@ rm -f ~/.local/bin/cc-switch
 
 我实际测试过的发行版：Debian 12 / 13、Ubuntu 24.04、Fedora 42、Arch Linux、Alpine 3.22、openSUSE Leap 15.6。其他同系发行版原则上也能使用。
 
+## 🙏 鸣谢
+
+感谢 [**LINUX DO**](https://linux.do/) 社区。
+
+## 📄 许可证
+
+[MIT](LICENSE) © coeeshu
+
 ---
 
 <div align="center">
 <sub>如果对你有帮助，欢迎点个 ⭐</sub>
 </div>
-
-## 📄 许可证
-
-[MIT](LICENSE) © coeeshu
